@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# API keys / secrets
+.env
+.env.local
+secrets.json
+
+# Output artifacts (keep folder, ignore generated files)
+sample_output/*.html
+sample_output/*.png
+sample_output/*.csv
+!sample_output/.gitkeep
