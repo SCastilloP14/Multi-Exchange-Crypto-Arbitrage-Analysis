@@ -8,6 +8,7 @@ requests>=2.31.0
 # Visualization
 plotly>=5.18.0
 matplotlib>=3.8.0
+kaleido>=0.2.1
 
 # Notebook environment
 jupyter>=1.0.0
